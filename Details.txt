@@ -45,7 +45,7 @@ Topics:
     May lead to props drilling or more num of callbacks/re-renders
 
     So, 
-    should we use redux everywhere for state managment in large applications
+    we use redux everywhere for state management in large applications
 
     everywhere redux should we use redux ?
     Ans: Depends on the size of the application & the Team's discussion and decision
